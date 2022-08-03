@@ -2,3 +2,5 @@
 baseURL = 'https://master.d3uziq9tx2jxqz.amplifyapp.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+canonifyurls = true
+
